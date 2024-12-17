@@ -7,6 +7,13 @@ Docs are written in [Markdown format](https://www.markdownguide.org/) and render
 Docs for a module named `example_module` should exist in the folder
 `content/modules/example_module/index.md`.
 
+There are 2 ways of adding a module name in the folder `content/modules/example_module/index.md`
+
+1. On Github: <https://github.com/OCA/docs/tree/main/content/module>. You need to create a new markdown file with the name of the module, through the creation of a new PR that will need to be reviewed then merged.
+2. On Decap CMS interface (not working right now): click on Worflow menu, then click to Create a new Post > choose "New module"
+
+![Image displaying the Decap interface, with the Worflow menu and the button "Create a new Post" where user needs to choose "New module"](/media/decap-cms-adding_a_new_module_name.png "Decap-CMS-adding_a_new_module_name")
+
 You can use [Decap CMS](https://decapcms.org/) to contribute changes to docs. Just click
 here: [✏️ CMS](https://oca-docs.netlify.app/admin/).
 
