@@ -1,4 +1,4 @@
-baseURL = 'https://moduon-oca-docs-prototype.netlify.app/'
+baseURL = 'https://oca-docs.netlify.app/'
 languageCode = 'en-us'
 sectionPagesMenu = 'main'
 theme = ["github.com/McShelby/hugo-theme-relearn"]

@@ -1,4 +1,4 @@
-module github.com/moduon/oca-docs
+module github.com/OCA/oca-docs
 
 go 1.22
 

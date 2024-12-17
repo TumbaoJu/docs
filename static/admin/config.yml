@@ -2,13 +2,16 @@ backend:
   branch: main
   name: github
   open_authoring: true
-  repo: moduon/oca-docs
+  repo: OCA/docs
   squash_merges: true
   use_graphql: true
 
+display_url: https://oca-docs.netlify.app
+logo_url: https://odoo-community.org/web/image/2994125-3cbbb295/OCA%20-%20Logo%20Vertical%20Dark%20Tagline%20Full%20WordMark%40512.png
 media_folder: static/media
 public_folder: /media
 publish_mode: editorial_workflow
+site_url: https://oca-docs.netlify.app
 
 collections:
   - name: page
