@@ -15,12 +15,14 @@ site_url: https://oca-docs.netlify.app
 
 collections:
   - name: page
+    create: true
     label: Pages
     folder: content
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: module
+    create: true
     label: Modules
     folder: content/module
     slug: "{{ technical_name }}"
